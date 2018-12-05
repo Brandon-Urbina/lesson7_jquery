@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/4/18
 
 ### Student Name:  
-(First and Last Name)
+Brandon Urbina
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Modified a web page to have different animations for a menu.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://burbina-inventions.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to have different animations for a menu.
+2. Display different colors of backgrounds for menus.
+3. How to test different methods through the console.
 
